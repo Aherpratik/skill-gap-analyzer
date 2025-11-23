@@ -1,0 +1,21 @@
+Colorist Resume Template
+[Full Name] Samantha Lopez
+[Phone Number] 001-309-272-9967 | [Email Address] markholder@gmail.com | [Website/Portfolio Link] https://samanthalopez.com | [City, State] Anthonytown, PW
+
+Objective
+Colorist shaping mood and cohesion through calibrated grading workflows.
+
+Education / Training
+• Color Grading Courses
+• Monitoring/Calibration Training
+
+Experience
+• Built show LUTs and scene looks; matched multi-cam.
+• Managed SDR/HDR trims and broadcast streaming specs.
+• Collaborated with DP and director in supervised sessions.
+
+Skills
+• Color Mgmt/ACES
+• Deliverables
+• Grading
+• Shot Matching
